@@ -19,7 +19,7 @@ f) Fazer verificações nos inputs de usuário para garantir que seja respeitado
 Inspirado no projeto descrito acima, resolvi por conta própria fazer uma análise da média dos dados de todos os anos, para ver como, e se, o aquecimento global estava afetando o clima em Porto Alegre. Nesse arquivo você irá encontrar:<br>
 <br>
 a) Escolha do dado para visualização pelo usuário através do terminal;<br>
-b) Visualização do gráfico contendo as médias do dado escolhido, de 1961 a 2015;
+b) Visualização do gráfico contendo as médias do dado escolhido, de 1961 a 2015;<br>
 c) Verificação se o número inserido pelo usuário está dentro do intervalo permitido.
 
 # dados.csv
